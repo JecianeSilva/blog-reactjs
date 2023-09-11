@@ -1,0 +1,18 @@
+
+.btn-loadMore {
+    width: 100%;
+    background: #3F51B5;
+    color: white;
+    border: none;
+    padding: 15px 30px;
+    cursor: pointer;
+    transition: background-color 280ms
+}
+
+.btn-loadMore:hover {
+    background-color: #5666BE;
+}
+.btn-loadMore:disabled {
+    background: #888888;  
+    cursor: not-allowed;
+}
