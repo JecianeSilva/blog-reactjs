@@ -12,4 +12,19 @@
     min-height: 100px;
     display: flex;
     align-items: flex-end;
-  }
+}
+
+.search-container {
+    margin-bottom: 30px;
+}
+  
+.search-container h1 {
+    margin-bottom: 30px;
+}
+
+.search-msg {
+    padding-top: 1rem;
+    font-size: 22px;
+    font-weight: bold;
+    color: #3F51B5;
+}
